@@ -1,0 +1,19 @@
+{
+  "name": "blockchain-task-v3",
+  "version": "1.0.0",
+  "description": "A basic digital document verification system using IPFS and ERC-721 (NFT) tokens.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@parcel/transformer-image": "^2.0.0",
+    "@truffle/hdwallet-provider": "^1.4.2",
+    "ipfs-http-client": "^48.0.1",
+    "parcel-bundler": "^2.0.0",
+    "web3": "^1.5.3"
+  },
+  "devDependencies": {}
+}
